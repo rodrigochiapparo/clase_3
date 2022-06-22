@@ -1,0 +1,30 @@
+h1 {
+    background-color: yellow;
+    text-align: center;
+    font-size: 50px;
+}
+
+img {
+    height: 30%;
+    width: 30%;
+}
+
+#imperio {
+    background-color: greenyellow;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.9;
+    text-align: center;
+}
+
+#rebeldes {
+    background-color: coral;
+    color: blue;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    background-color: black;
+    color: white;
+}
